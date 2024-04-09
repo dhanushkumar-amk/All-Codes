@@ -1,4 +1,4 @@
-// palindrome in java for coding round
+
 
 /**
  * palindrome
@@ -32,7 +32,7 @@ public class palindrome {
             j--;
             // if the two string are equal the j moves one step backwards <----
         }
-        
+
         System.out.println("is a palindrome");
 
     }
